@@ -1,0 +1,65 @@
+body{
+
+
+    background-image: url("../IMAGES/Vancouver.jpg");
+    background-repeat: no-repeat;
+    background-size: 1980px 1330px;
+
+}
+
+
+h1{
+    height: 70px;
+    width: 100%;
+    font-size: 18px;
+    background: #18aa8d;
+    color: white;
+
+    border-radius: 3px 3px 0 0;
+    box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+form {
+    box-sizing: content-box;
+    width: 450px;
+    margin: 100px auto 0;
+    padding-bottom: 40px;
+    margin-left: 38%;
+    border-radius: 3px;
+    background: #1b1e21;
+
+
+}
+form h1 {
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    size: 30px;
+}
+input {
+    margin: 10px 10px;
+    width: 400px;
+    display: block;
+    border: none;
+    padding: 10px 0;
+    border-bottom: solid 1px #1abc9c;
+    background-size: 200px 100%;
+    background-repeat: no-repeat;
+    color:whitesmoke;
+    background: #1b1e21;
+}
+
+button{
+    alignment: center;
+    width: 200px;
+    height: 40px;
+    margin-left: 120px;
+    border: none;
+    background: #1abc9c;
+    border-radius: 5px;
+    color: white;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+}
